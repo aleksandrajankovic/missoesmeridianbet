@@ -177,12 +177,12 @@ document.addEventListener("DOMContentLoaded", () => {
          href: "https://meridianbet.bet.br/ca/missoes",
       },
        {
-        src: "./assets/images/coins/Wazdam9.png",
+        src: "./assets/images/coins/wazdam9.png",
         alt: "Wazdam",
          href: "https://meridianbet.bet.br/ca/missoes",
       },
        {
-        src: "./assets/images/coins/Amusnet10.png",
+        src: "./assets/images/coins/amusnet10.png",
         alt: "Amusnet",
          href: "https://meridianbet.bet.br/ca/missoes",
       },
